@@ -79,3 +79,16 @@ color: black;
 
 /* end header styles */
 
+
+/* footer styles */
+footer{
+    background-color: gainsboro;
+}
+
+.footer-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 0 50px;
+}
