@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.nav-title {
+    display: flex;              
+    justify-content: space-around;   
+    align-items: center;          
+    padding: 10px;               
+  }
+
+
+ .Hero-bg{
+    background-image: url(/assets/Hero-bg.png);
+ 
+ }
+ .hero-section{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 140px 70px;
+   
+ }
